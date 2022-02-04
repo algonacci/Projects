@@ -1,0 +1,18 @@
+# Exploratory Data Analysis with AirBnb data from Kaggle
+
+![](https://github.com/algonacci/Projects/blob/main/01%20-%20AirBnb%20EDA/AirBnb/1.png?raw=true)
+![](https://github.com/algonacci/Projects/blob/main/01%20-%20AirBnb%20EDA/AirBnb/2.png?raw=true)
+![](https://github.com/algonacci/Projects/blob/main/01%20-%20AirBnb%20EDA/AirBnb/3.png?raw=true)
+![](https://github.com/algonacci/Projects/blob/main/01%20-%20AirBnb%20EDA/AirBnb/4.png?raw=true)
+![](https://github.com/algonacci/Projects/blob/main/01%20-%20AirBnb%20EDA/AirBnb/5.png?raw=true)
+![](https://github.com/algonacci/Projects/blob/main/01%20-%20AirBnb%20EDA/AirBnb/6.png?raw=true)
+![](https://github.com/algonacci/Projects/blob/main/01%20-%20AirBnb%20EDA/AirBnb/7.png?raw=true)
+![](https://github.com/algonacci/Projects/blob/main/01%20-%20AirBnb%20EDA/AirBnb/8.png?raw=true)
+![](https://github.com/algonacci/Projects/blob/main/01%20-%20AirBnb%20EDA/AirBnb/9.png?raw=true)
+![](https://github.com/algonacci/Projects/blob/main/01%20-%20AirBnb%20EDA/AirBnb/10.png?raw=true)
+![](https://github.com/algonacci/Projects/blob/main/01%20-%20AirBnb%20EDA/AirBnb/11.png?raw=true)
+![](https://github.com/algonacci/Projects/blob/main/01%20-%20AirBnb%20EDA/AirBnb/12.png?raw=true)
+![](https://github.com/algonacci/Projects/blob/main/01%20-%20AirBnb%20EDA/AirBnb/13.png?raw=true)
+![](https://github.com/algonacci/Projects/blob/main/01%20-%20AirBnb%20EDA/AirBnb/14.png?raw=true)
+![](https://github.com/algonacci/Projects/blob/main/01%20-%20AirBnb%20EDA/AirBnb/15.png?raw=true)
+![](https://github.com/algonacci/Projects/blob/main/01%20-%20AirBnb%20EDA/AirBnb/16.png?raw=true)
